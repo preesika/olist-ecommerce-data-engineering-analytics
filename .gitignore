@@ -1,0 +1,14 @@
+# Environment variables / database credentials
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Olist datasets
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
