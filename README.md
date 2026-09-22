@@ -11,6 +11,16 @@ This project demonstrates an end-to-end data engineering and analytics workflow 
 
 The project covers data inspection, data cleaning, PostgreSQL database loading, SQL transformations, analytics views, and an interactive Power BI dashboard.
 
+## Dataset
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, a real-world anonymized e-commerce dataset containing approximately 100,000 orders from 2016 to 2018.
+
+The dataset includes information about customers, orders, order items, products, sellers, payments, reviews, and geolocation.
+
+**Source:** [Brazilian E-Commerce Public Dataset by Olist - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+> The raw and processed datasets are not included in this repository due to file size considerations.
+
 ## Architecture
 
 Raw CSV Data
