@@ -1,5 +1,10 @@
 # Olist E-Commerce Analytics Project
 
+## Power BI Dashboard
+
+![Olist E-Commerce Sales Analytics Dashboard](screenshots/olist_dashboard.png)
+
+
 ## Project Overview
 
 This project demonstrates an end-to-end data engineering and analytics workflow using the Brazilian Olist E-Commerce dataset.
